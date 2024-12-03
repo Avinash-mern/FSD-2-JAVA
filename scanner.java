@@ -15,7 +15,7 @@ class Main {
         boolean check = false;
         for(int i = 0 ;i<size; i++){
             if(arr[i] == x){
-                check true;
+                check = true;
                 break;
             }
         }
